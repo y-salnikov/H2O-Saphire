@@ -1,2 +1,2 @@
 # H2O-Saphire
-Gtk2 and Gtk3 theme.
+Gtk2, Gtk3 and Gtk4 theme.
